@@ -1,9 +1,9 @@
 ### Hello, it's ZuoSyuan Wang 👋  
 
 ### I'm an Engineer and a VR fan.
-- Firmware dev in [Wistron].<br /> `Verilog, C`  
-- Former web dev in [Betravelo]. <br />`React, AWS`
-- Play [Rec Room] in VR world. <br /> `[TW]walking`
+- Now firmware dev in [Wistron]. `use Verilog, C`  
+- Former web frontend dev in [Betravelo]. `use React, AWS`
+- Play [Rec Room] in VR world. 
 - working on web scrapper project recently.
 
 ### Connect with me: 
