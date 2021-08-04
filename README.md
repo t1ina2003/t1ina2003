@@ -1,6 +1,6 @@
-### Hi visitor, I'm ZuoSyuan Wang  
+### Hi visitor, it's ZuoSyuan Wang 👋  
 
-## Engineer and VR fan.
+### I'm an Engineer and a VR fan.
 - Firmware dev in [Wistron].<br /> `Verilog, C`  
 - Former web dev in [Betravelo]. <br />`React, AWS`
 - Play [Rec Room] in VR world. <br /> `[TW]walking`
