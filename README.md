@@ -4,7 +4,7 @@
 - Now firmware dev in [Wistron]. `use Verilog, C`  
 - Former web frontend dev in [Betravelo]. `use React, AWS`
 - Play [Rec Room] in VR world. 
-- working on web scrapper project recently.
+- working on web scrapper project & EncryptCurrency trade bot recently.
 
 ### Connect with me: 
 
