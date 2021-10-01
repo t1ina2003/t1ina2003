@@ -1,4 +1,4 @@
-### Hello, it's ZuoSyuan Wang 👋  
+### Hi visitor, I'm ZuoSyuan Wang 👋  
 
 ### I'm an Engineer and a VR fan.
 - Now firmware dev in [Wistron]. `use Verilog, C`  
