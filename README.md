@@ -1,10 +1,11 @@
 ### Hi visitor, I'm ZuoSyuan Wang 👋  
 
-### I'm an Engineer and a VR fan.
+### I'm an Engineer and a VR fan. 
 - Now firmware dev in [Wistron]. `use Verilog, C`  
 - Former web frontend dev in [Betravelo]. `use React, AWS`
 - Play [Rec Room] in VR world. 
 - working on web scrapper project & EncryptCurrency trade bot recently.
+- more info please visit my [Blog]
 
 ### Connect with me: 
 
@@ -45,6 +46,7 @@
 [Betravelo]: https://www.crunchbase.com/organization/betravelo
 [Wistron]: https://www.wistron.com/CMS/ChangeLanguage/3
 [Rec Room]: https://rec.net/user/t1ina2003
+[Blog]: https://t1ina2003.github.io/
 
 [website]: https://t1ina2003.github.io/
 [youtube]: https://www.youtube.com/user/t1ina2003
