@@ -1,11 +1,29 @@
-### Hi visitor, I'm ZuoSyuan Wang 👋  
+### 👋 Hi there, I'm ZuoSyuan Wang  
 
-### I'm an Engineer and a VR fan. 
-- Now firmware dev in [Aivres]. `use Verilog, C`  
-- Former web frontend dev in [Betravelo]. `use React, AWS`
-- Play [Rec Room] in VR world. 
-- working on web scrapper project & EncryptCurrency trade bot recently.
-- more info please visit my [Blog]
+I'm a **Firmware / FPGA Engineer** specializing in CPLD system design, embedded firmware, and automation scripting.  
+Currently at [Aivres], focusing on Verilog-based control logic and BMC communication flows.  
+
+### 🧩 Technical Skills
+- **Languages:** Verilog, Python, C, Bash, JavaScript  
+- **Frameworks & Tools:** Quartus, Vivado, Playwright, React, AWS, GCP, Git  
+- **Domains:** CPLD/FPGA design, Power sequencing, Redfish/I2C automation, Data logging  
+
+### 🚀 Featured Projects
+- **[Server CPLD Automation Framework]** — Python async loop with SSH & CRC8 verification for power-cycle testing.  
+
+### 🎧 Beyond Work
+Exploring VR worlds in [Rec Room], tinkering with Raspberry Pi automation,  
+and writing about engineering insights on my [Blog].  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t1ina2003&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1ina2003&layout=compact&theme=tokyonight)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZuoSyuanWang-blue?logo=linkedin)](https://www.linkedin.com/in/zuo-syuan-wang-3a572187/)
+[![Medium](https://img.shields.io/badge/Medium-t1ina2003-black?logo=medium)](https://t1ina2003.medium.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-t1ina2003-red?logo=youtube)](https://www.youtube.com/user/t1ina2003)
+
 
 ### Connect with me: 
 
