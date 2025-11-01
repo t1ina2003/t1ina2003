@@ -59,8 +59,6 @@ and writing about engineering insights on my [Blog].
 <br />
 <br />
 
-![zswang's github stats](https://github-readme-stats.vercel.app/api?username=t1ina2003&show_icons=true&theme=tokyonight)
-
 [Betravelo]: https://www.crunchbase.com/organization/betravelo
 [Aivres]: https://aivres.com/
 [Rec Room]: https://rec.net/user/t1ina2003
