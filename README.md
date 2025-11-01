@@ -17,8 +17,7 @@ and writing about engineering insights on my [Blog].
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t1ina2003&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1ina2003&layout=compact&theme=tokyonight)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZuoSyuanWang-blue?logo=linkedin)](https://www.linkedin.com/in/zuo-syuan-wang-3a572187/)
 [![Medium](https://img.shields.io/badge/Medium-t1ina2003-black?logo=medium)](https://t1ina2003.medium.com/)
@@ -58,6 +57,9 @@ and writing about engineering insights on my [Blog].
 
 <br />
 <br />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t1ina2003&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1ina2003&layout=compact&theme=tokyonight)
 
 [Betravelo]: https://www.crunchbase.com/organization/betravelo
 [Aivres]: https://aivres.com/
